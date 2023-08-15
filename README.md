@@ -1,3 +1,5 @@
 # vue2-demo
 
-:octocat: 记录学习vue2 参考：[vue2.0](https://v2.cn.vuejs.org/v2/guide/)
+:octocat: 记录学习 vue 2 
+
+参考：[vue 2.0 官方教程](https://v2.cn.vuejs.org/v2/guide/)

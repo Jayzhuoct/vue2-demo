@@ -1,7 +1,6 @@
 # vue2-demo
-:octocat: 记录学习 vue 2 语法 <br>
 
-<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/vue.webp"> 
+:octocat: 记录学习 vue 2 语法
 
 1. [Introduction](/1.Introduction) 介绍
 2. [TheVueInstance](/2.TheVueInstance) vue 实例
@@ -14,4 +13,12 @@
 9. [FormInputBindings](/9.FormInputBindings) 表单输入绑定
 
 参考：[vue 2.0 官方教程](https://v2.cn.vuejs.org/v2/guide/)
+
+相关语言：
+
+<img height="90" width="90" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/vue.webp"> 
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cssgif.webp">
+
 

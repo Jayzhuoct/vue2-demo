@@ -1,6 +1,6 @@
 # vue2-demo
 
-:octocat: 记录学习 vue 2 
+:octocat: 记录学习 vue 2 语法
 
 1.Introduction 介绍
 2.TheVueInstance vue 实例

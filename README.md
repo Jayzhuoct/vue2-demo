@@ -15,10 +15,10 @@
 参考：[vue 2.0 官方教程](https://v2.cn.vuejs.org/v2/guide/)
 
 相关语言：
-
+<div>
 <img height="90" width="90" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/vue.webp"> 
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cssgif.webp">
-
+</div>
 
